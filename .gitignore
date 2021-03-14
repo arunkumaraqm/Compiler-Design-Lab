@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Lex Generated C Files
+*.yy.c
+
 # Object files
 *.o
 *.ko

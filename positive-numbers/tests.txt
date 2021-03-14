@@ -1,0 +1,55 @@
+9
+positive number
+
++9
+positive number
+
++90
+positive number
+
+-89
+negative number
+
+0
+positive number
+
+0.5
+positive fraction
+
+.5
+positive fraction
+
+-.5
+negative fraction
+
+-0.5
+negative fraction
+
+23.43
+positive fraction
+
++23.43
+positive fraction
+
+-23.43
+negative fraction
+
+-.43
+negative fraction
+
++.43
+positive fraction
+
+.43
+positive fraction
+
+1.
+positive fraction
+
+432.
+positive fraction
+
+-543.
+negative fraction
+
+
