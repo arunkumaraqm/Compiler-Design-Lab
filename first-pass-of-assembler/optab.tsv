@@ -1,0 +1,4 @@
+lda		0
+sta		1
+add		2
+sub		3

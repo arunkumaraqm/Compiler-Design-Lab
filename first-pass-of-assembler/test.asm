@@ -1,0 +1,10 @@
+copy	start	1000
+-		lda		alpha
+-		add		one
+-		sub		two
+-		sta 	beta
+alpha	byte	c'klnce'
+one		resb	2
+two		word	5
+beta	resw	1
+-		end		-
